@@ -41,9 +41,13 @@ body{
 .content:hover a{
     border-color: aliceblue;
     background: aliceblue;
-}
-.content-1:hover{border-color: #1DA1F2;
-background: #1DA1F2;} */
+} */
+/* .content-1:hover{border-color: #1DA1F2;
+background: #1DA1F2;}
+.content-2:hover{border-color: #f21d1d;
+    background: #f21d1d;}
+    .content-3:hover{border-color: #df18d5;
+        background: #f21da0;} */
 .content h2{
     font-size: 30px;
     margin: 16px 0;
